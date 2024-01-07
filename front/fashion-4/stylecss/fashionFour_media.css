@@ -1,0 +1,51 @@
+@media screen and (min-width:320px) and (max-width:570px){
+    .navbar-brand{
+        order: 2;
+    } 
+    .img-1_imgbox img {
+        z-index: 1;
+        right: 12px !important;
+
+    }
+    .intro-text-content {
+       
+        left: 45px !important;
+        top: 7rem !important;
+    }
+    .intro_text h2 {
+        font-size: 6rem !important;
+    }
+    .intro_text h1 {
+        font-size: 4.5rem !important;
+    }
+    .banner-overlay{
+       
+    margin-bottom: 26px;
+    }
+    .owl-stage-outer {
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+    .product-media-2 {
+         height: unset !important;
+        padding: 0 0 1rem 0;
+
+    }
+    .banner-overlay-backimg{
+        width: unset !important;
+        margin-bottom: 2rem;
+    }
+    .banner-overlay{
+        margin-bottom: 2rem;
+        /* margin: auto !important;
+        text-align: center !important; */
+
+    }
+    .icon-box {
+        margin: 1rem 0;
+    }
+    .footer {
+        text-align: center;
+    }
+    
+}
